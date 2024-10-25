@@ -1,2 +1,2 @@
 # Quadruped
-A personal project me and colin malon have been working on since the beginning of 2023 till the end.
+My robot quadruped was personal project started beginning of 2023. I designed the full CAD in Autodesk Fusion.
